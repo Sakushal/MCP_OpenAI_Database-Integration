@@ -1,0 +1,6 @@
+claim_id,policy_id,customer_id,claim_date,claim_amount,claim_reason,status
+CLM001,P1005,C005,2022-09-14,150000,Death,Approved
+CLM002,P1003,C003,2019-11-28,20000,Medical Emergency,Rejected
+CLM003,P1007,C007,2021-01-16,25000,Accident,Pending
+CLM004,P1002,C002,2023-03-22,50000,Terminal Illness,Approved
+CLM005,P1001,C001,2020-07-05,12000,Hospitalization,Rejected

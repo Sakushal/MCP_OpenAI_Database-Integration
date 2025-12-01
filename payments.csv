@@ -1,0 +1,11 @@
+payment_id,policy_id,payment_date,amount,method,status
+PAY001,P1001,2023-01-10,100,Credit Card,Success
+PAY002,P1001,2023-02-10,100,Bank Transfer,Success
+PAY003,P1002,2023-01-18,60,Credit Card,Success
+PAY004,P1003,2020-03-05,75,Cash,Failed
+PAY005,P1004,2023-02-22,130,Debit Card,Success
+PAY006,P1005,2021-10-10,175,Credit Card,Success
+PAY007,P1006,2023-03-02,30,Bank Transfer,Success
+PAY008,P1007,2019-08-18,90,Cash,Failed
+PAY009,P1008,2023-01-28,112,Credit Card,Success
+PAY010,P1009,2023-03-11,145,Credit Card,Success

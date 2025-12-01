@@ -1,0 +1,11 @@
+customer_id,full_name,age,gender,city,phone
+C001,John Carter,42,Male,New York,555-1283
+C002,Sophia Johnson,34,Female,Los Angeles,555-7821
+C003,Michael Brown,39,Male,Chicago,555-9083
+C004,Emily Davis,45,Female,Houston,555-3344
+C005,David Wilson,50,Male,Phoenix,555-2290
+C006,Isabella Garcia,31,Female,Philadelphia,555-9045
+C007,James Martinez,37,Male,San Antonio,555-6631
+C008,Charlotte Rodriguez,29,Female,San Diego,555-1129
+C009,Daniel Hernandez,48,Male,Dallas,555-7610
+C010,Mia Lopez,33,Female,San Jose,555-2498

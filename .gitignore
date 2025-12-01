@@ -1,0 +1,24 @@
+
+# Ignore dependencies folder (for Node.js)
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore environment variable files (e.g., .env) containing sensitive data
+.env
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore system files (for macOS and Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore specific python file
+mcp_server.py
+

@@ -1,0 +1,11 @@
+policy_id,customer_id,plan_name,sum_assured,premium,term_years,start_date,maturity_date,status
+P1001,C001,Whole Life Plan,100000,1200,20,2018-03-12,2038-03-12,Active
+P1002,C002,Term Life Plan,50000,600,10,2020-10-20,2030-10-20,Active
+P1003,C003,Child Education Plan,75000,900,15,2016-07-05,2031-07-05,Lapsed
+P1004,C004,Retirement Plan,150000,1600,25,2015-01-18,2040-01-18,Active
+P1005,C005,Whole Life Plan,200000,2100,30,2014-11-02,2044-11-02,Claimed
+P1006,C006,Term Life Plan,30000,350,8,2021-02-12,2029-02-12,Active
+P1007,C007,Endowment Plan,90000,1100,18,2017-06-14,2035-06-14,Lapsed
+P1008,C008,Whole Life Plan,120000,1350,22,2019-09-09,2041-09-09,Active
+P1009,C009,Retirement Plan,180000,1750,25,2013-04-03,2038-04-03,Active
+P1010,C010,Child Education Plan,85000,920,15,2018-12-21,2033-12-21,Active
