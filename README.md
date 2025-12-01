@@ -84,9 +84,9 @@ MCP_OpenAI_Database-Integration/
 
 ├── .env  
 
-├── mcp.py     
+├── .py files    
 
-├── db_connector.py        
+├── .csv files and .db      
 
 ├── requirements.txt        
 
