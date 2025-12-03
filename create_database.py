@@ -1,7 +1,7 @@
 import sqlite3
 import pandas as pd
 
-# CSV file paths — update paths if needed
+
 CSV_FILES = {
     "policies": "policies.csv",
     "customers": "customers.csv",
@@ -24,7 +24,7 @@ def create_database():
             cur.execute(f"DROP TABLE IF EXISTS {table}")
             conn.commit()
 
-            # Write CSV data to SQLite
+            
             df.to_sql(table, conn, if_exists="replace", index=False)
             print(f"Imported {table} successfully!")
         except FileNotFoundError:
